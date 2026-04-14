@@ -1,0 +1,12 @@
+{
+  "name": "week-07-bla",
+  "version": "1.0.0",
+  "description": "Static site demo built with Parcel",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
